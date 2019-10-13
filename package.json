@@ -1,0 +1,22 @@
+{
+  "name": "supplicant",
+  "version": "1.0.0",
+  "description": "a other replacement of supplicant,work by node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susdevlop/Edusupplicant-for-electron.git"
+  },
+  "keywords": [
+    "supplicant"
+  ],
+  "author": "TzuHsing Su",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/susdevlop/Edusupplicant-for-electron/issues"
+  },
+  "homepage": "https://github.com/susdevlop/Edusupplicant-for-electron#readme"
+}
